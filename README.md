@@ -29,10 +29,10 @@ It is **not medical advice**. With pharmacist collaboration, we aim to scale it 
 ## 📥 Installation & Setup
 
 Clone this repository:
-git clone https://github.com/Manish9211Ram/ShifaAI.git
-cd ShifaAI
+- git clone https://github.com/Manish9211Ram/ShifaAI.git
+- cd ShifaAI
 ## Run the application:
-streamlit run app.py
+- streamlit run app.py
 
 
 

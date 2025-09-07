@@ -27,6 +27,7 @@ It is **not medical advice**. With pharmacist collaboration, we aim to scale it 
 - **Synthetic Data Generation** tools  
 ---
 ## 📥 Installation & Setup
+
 Clone this repository:
 git clone https://github.com/Manish9211Ram/ShifaAI.git
 cd ShifaAI
